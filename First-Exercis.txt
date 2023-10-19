@@ -1,0 +1,4 @@
+Hello SoftUni!
+My name is Stanimir.
+
+This is my first commit to GitHub!
